@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582906800843",
+    "project_id": "lnflix",
+    "storage_bucket": "lnflix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582906800843:android:d0ea1482bc543c76fb894e",
+        "android_client_info": {
+          "package_name": "com.example.ln_flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582906800843-kv0fcuhqj0ps3hodem7gq2utvg58p4mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGlVf4i8TCJolBABOQNe2_TDS3n4a6Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582906800843-kv0fcuhqj0ps3hodem7gq2utvg58p4mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
